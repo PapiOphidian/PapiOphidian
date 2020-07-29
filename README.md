@@ -7,4 +7,7 @@ Since then, I can safely say that I know how to code in:
 - CSS
 - Java
 
-I am also rather proficient in writing JSDoc and TypeScript def.
+I am also rather proficient in:
+- JSDoc
+- TypeScript def
+- Regular Expressions
