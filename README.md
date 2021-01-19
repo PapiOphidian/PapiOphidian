@@ -1,5 +1,5 @@
 ## PapiOphidian
-Just some 19 year old independent full stack developer. I started off with JavaScript (CommonJS) on 01/20/2017.
+Just some 20 year old independent full stack developer. I started off with JavaScript (CommonJS) on 01/20/2017.
 Since then, I can safely say that I know:
 - JavaScript (CommonJS & ESModule)
 - TypeScript
