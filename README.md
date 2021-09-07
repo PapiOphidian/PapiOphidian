@@ -1,17 +1,19 @@
 ## PapiOphidian
-Just some 20 year old independent full stack developer. I started off with JavaScript (CommonJS) on 01/20/2017.
+Just some 20 year old independent full stack developer. I started off with Node.js on 01/20/2017.
 Since then, I can safely say that I know:
-- JavaScript (CommonJS & ESModule)
+- JavaScript (CommonJS & ESModule) (Node & WebJS)
 - TypeScript
-- Some front end such as MD, HTML & Pug plus CSS & SCSS
-- Java
-- Python
-- Rust
+- MD, HTML, Pug, CSS/SCSS
+- Some Java
+- Some Python
+- Some Rust
 
-I am also rather proficient in:
-- Manual documentation
-- Regular expressions
-- Multi-threaded workloads / micro services
-- WebSocket gateway server & client
+I am also proficient in:
+- Writing regular expressions
+- Adapting existing applications to make use of multi-threaded workloads / micro services
+- WebSocket server & client
 
 I like to write core frameworks & API wrappers with a side of web scraping.
+
+You can hire me! If my current skill set aligns with what you need, you may send me an email via my [email](mailto:bradleyjplatt@yahoo.com).
+If you like what I do and want to ensure I keep doing what I love, consider supporting me on [Patreon](https://patreon.com/papiophidian) or on [Paypal](https://paypal.me/papiophidian)
