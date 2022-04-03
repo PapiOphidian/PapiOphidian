@@ -7,6 +7,7 @@ Since then, I can safely say that I know:
 - Some Java
 - Some Python
 - Some Rust
+- Some C# (vanilla and Unity C#)
 
 I am also proficient in:
 - Writing regular expressions
