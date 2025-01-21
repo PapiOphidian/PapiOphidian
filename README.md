@@ -1,5 +1,5 @@
 ## PapiOphidian
-Just some 22 year old independent full stack developer. I can safely say that I know:
+Just some 24 year old independent full stack developer. I can safely say that I know:
 - JavaScript (CommonJS & ESModule) (Node & WebJS)
 - TypeScript
 - MD, HTML, Pug, CSS/SCSS
